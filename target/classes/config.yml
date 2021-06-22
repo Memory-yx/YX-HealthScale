@@ -1,0 +1,15 @@
+#血量刷新时间 20Tick=1s
+HeartTime: "40"
+
+#初始有多少颗"心"
+HeartValue: "5"
+
+#减去初始值后最大"心"的数量,数量必须为HealthScale的总行数
+HeartLength: "5"
+
+#每加成一颗"心"需要多少血量
+HealthScale1: "224"
+HealthScale2: "632"
+HealthScale3: "1162"
+HealthScale4: "1789"
+HealthScale5: "2500"

@@ -1,0 +1,12 @@
+name: YX-HealthScale
+version: 1.0.3
+main: bukkit.memory520.HealthScale
+api-version: 1.15
+
+commands:
+  reload:
+    description: 重载插件
+
+permissions:
+  HealthScale.admin:
+    default: op
